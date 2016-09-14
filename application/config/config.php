@@ -16,7 +16,7 @@
 | environments.
 |
 */
-$config['base_url'] = 'http://panda.com/crud_codeigniter/';
+$config['base_url'] = 'http://panda.com/practiceCodeigniter/';
 
 /*
 |--------------------------------------------------------------------------
